@@ -1,14 +1,18 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        unordered_map<char , int> count;
+        int x = 0 ;
+        int y = 0;
 
-        for(char ch : moves){
-            count[ch]++;
+        for ( char ch : moves ){
+        if(ch=='U') x++;
+        else if(ch=='D') x--;
+        else if (ch=='R') y++;
+        else y--;
         }
-
-        if(count['U']==count['D']&&count['R']==count['L']) return true;
-        else return false;
+        if(x==0 && y == 0){
+            return true;
+        }else return false;
         
     }
 };
