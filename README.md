@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/alokyadva26/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/alokyadva26/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/alokyadva26/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/alokyadva26/Leetcode/tree/master/0771-jewels-and-stones) |
