@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alokyadva26/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/alokyadva26/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Array
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/alokyadva26/Leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
