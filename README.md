@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/alokyadva26/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alokyadva26/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
