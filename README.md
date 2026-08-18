@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/alokyadva26/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/alokyadva26/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alokyadva26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/alokyadva26/Leetcode/tree/master/0016-3sum-closest) |
 | [0068-text-justification](https://github.com/alokyadva26/Leetcode/tree/master/0068-text-justification) |
+| [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alokyadva26/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
+| [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
