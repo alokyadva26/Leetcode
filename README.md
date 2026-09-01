@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/alokyadva26/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/alokyadva26/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/alokyadva26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/alokyadva26/Leetcode/tree/master/0068-text-justification) |
 | [0387-first-unique-character-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
