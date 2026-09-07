@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alokyadva26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/alokyadva26/Leetcode/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alokyadva26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/alokyadva26/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/alokyadva26/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/alokyadva26/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/alokyadva26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alokyadva26/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/alokyadva26/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
