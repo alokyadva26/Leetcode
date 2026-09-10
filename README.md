@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alokyadva26/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/alokyadva26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alokyadva26/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/alokyadva26/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/alokyadva26/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alokyadva26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
