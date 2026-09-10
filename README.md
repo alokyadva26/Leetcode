@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/alokyadva26/Leetcode/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/alokyadva26/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/alokyadva26/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/alokyadva26/Leetcode/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/alokyadva26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/alokyadva26/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/alokyadva26/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/alokyadva26/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/alokyadva26/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/alokyadva26/Leetcode/tree/master/0709-to-lower-case) |
