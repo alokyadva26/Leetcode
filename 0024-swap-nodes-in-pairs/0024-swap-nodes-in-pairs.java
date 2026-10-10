@@ -12,11 +12,28 @@ class Solution {
     public ListNode swapPairs(ListNode head) {
         if(head == null || head.next == null) return head;
 
-        ListNode temp = head.next;
-        head.next = swapPairs(head.next.next);
-        temp.next = head;
-
-        return temp;
+        // ListNode temp = head.next;
+        // head.next = swapPairs(head.next.next);
+        // temp.next = head;
         
+        // return temp; {recursion method it takes space of O(n) to optimize this we are using iteration method }
+        
+
+        ListNode dummy = new ListNode(0, head);
+        ListNode prev = dummy;
+
+        while(prev.next != null && prev.next.next != null){
+            ListNode first = prev.next;
+            ListNode second = prev.next.next;
+
+            // rewiring 
+            prev.next = second;
+            first.next = second.next;
+            second.next = first;
+
+            prev = first;
+        }
+
+        return dummy.next;
     }
 }
