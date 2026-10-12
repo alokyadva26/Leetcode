@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/alokyadva26/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/alokyadva26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alokyadva26/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/alokyadva26/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/alokyadva26/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/alokyadva26/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/alokyadva26/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alokyadva26/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/alokyadva26/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alokyadva26/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/alokyadva26/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/alokyadva26/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alokyadva26/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alokyadva26/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
