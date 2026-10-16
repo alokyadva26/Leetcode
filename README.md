@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/alokyadva26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/alokyadva26/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alokyadva26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1399-count-largest-group](https://github.com/alokyadva26/Leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alokyadva26/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/alokyadva26/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1399-count-largest-group](https://github.com/alokyadva26/Leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/alokyadva26/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/alokyadva26/Leetcode/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/alokyadva26/Leetcode/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alokyadva26/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1399-count-largest-group](https://github.com/alokyadva26/Leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/alokyadva26/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/alokyadva26/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/alokyadva26/Leetcode/tree/master/3870-count-commas-in-range) |
