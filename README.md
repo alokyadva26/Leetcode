@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/alokyadva26/Leetcode/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/alokyadva26/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/alokyadva26/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/alokyadva26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/alokyadva26/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/alokyadva26/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alokyadva26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alokyadva26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/alokyadva26/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/alokyadva26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/alokyadva26/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/alokyadva26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/alokyadva26/Leetcode/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alokyadva26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alokyadva26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/alokyadva26/Leetcode/tree/master/0500-keyboard-row) |
 | [0905-sort-array-by-parity](https://github.com/alokyadva26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/alokyadva26/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/alokyadva26/Leetcode/tree/master/1051-height-checker) |
