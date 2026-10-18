@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alokyadva26/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/alokyadva26/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alokyadva26/Leetcode/tree/master/0018-4sum) |
+| [0057-insert-interval](https://github.com/alokyadva26/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/alokyadva26/Leetcode/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alokyadva26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alokyadva26/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
